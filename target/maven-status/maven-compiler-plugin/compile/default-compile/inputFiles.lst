@@ -1,0 +1,10 @@
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/service/StudentService.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/repository/StudentRepository.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/entity/Student.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/dto/StudentDto.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/dto/CourseDto.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/controller/StudentController.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/service/impl/StudentServiceImpl.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/dto/ResponseDto.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/mapper/StudentMapper.java
+/home/xusniddin/Documents/spring/student/src/main/java/examine4/student/StudentApplication.java
